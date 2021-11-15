@@ -1,1 +1,1 @@
-<a href = "https://dtomic-portfolio.herokuapp.com">Check out my new website</a>
+<a href = "https://dtomic-portfolio.herokuapp.com" rel="follow">Check out my new website</a>
