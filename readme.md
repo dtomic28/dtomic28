@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [www.dtomic.com](www.dtomic.com)
+- 👨‍💻 All of my projects are available at [My Website](https://www.dtomic.com)
 
 - 📫 How to reach me **danijeltomic2004@gmail.com**
 
