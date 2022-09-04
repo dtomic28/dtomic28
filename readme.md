@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danijel</h1>
-<h3 align="center">Aspiring web developer from Slovenia</h3>
+<h3 align="center">Web developer from Slovenia</h3>
 
 - 🌱 I’m currently learning **C for embeded development**
 
